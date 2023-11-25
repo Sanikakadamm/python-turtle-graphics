@@ -1,2 +1,2 @@
 # python-turtle-graphics
-Turtle is an inbuilt module in Python. It provides:   Drawing using a screen (cardboard). Turtle (pen). To draw something on the screen, we need to move the turtle (pen) and to move the turtle, there are some functions like the forward(), backward(), etc
+![graphics](https://github.com/Sanikakadamm/python-turtle-graphics/assets/96229011/7f704467-ff0d-4938-9ed2-c56c0cf94955)
